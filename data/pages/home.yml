@@ -1,7 +1,6 @@
 hero:
   image: /images/FTOutside1-white.jpg
-  title{font: 12px tahoma;Great drinks food and ambiance}
-  title{color: brown}
+  title{font: 12px tahoma; color: brown}
   title: Great drinks food and ambiance!
 story: >-
   The Flat Top team aims to make every visit at our location a special one.
