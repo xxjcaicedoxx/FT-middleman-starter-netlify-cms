@@ -31,7 +31,7 @@
       font-weight: 700;
       color: $text-color;
       &.active, &:hover, &:focus{
-        color: white;
+        color: $primary-color;
       }
     }
     @media screen and (max-width: $screen-xs-max){
